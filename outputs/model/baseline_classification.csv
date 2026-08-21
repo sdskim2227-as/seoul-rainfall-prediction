@@ -1,0 +1,3 @@
+target,baseline,accuracy,precision,recall,f1
+rain_tomorrow,다수 클래스,0.6373175182481752,0.0,0.0,0.0
+rain_tomorrow,persistence(오늘=내일),0.6870437956204379,0.568039950062422,0.5723270440251572,0.5701754385964912

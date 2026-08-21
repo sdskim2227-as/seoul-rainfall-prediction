@@ -1,0 +1,3 @@
+model,best_params,cv_best_f1,train_accuracy,test_accuracy,test_precision,test_recall,test_f1
+RandomForestClassifier,"{'max_depth': 20, 'min_samples_leaf': 1, 'n_estimators': 200}",0.5701766979486994,0.9921277809469481,0.7349452554744526,0.6890459363957597,0.49056603773584906,0.5731080088170463
+XGBClassifier,"{'learning_rate': 0.1, 'max_depth': 6, 'n_estimators': 100, 'subsample': 0.8}",0.5760546753391516,0.8468910439247005,0.739507299270073,0.6842105263157895,0.5232704402515723,0.5930149679258732

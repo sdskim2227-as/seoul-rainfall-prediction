@@ -1,0 +1,19 @@
+column,allowed_range,violation_count,observed_min,observed_max
+humidity,"[0, 100]",0,20.3,99.0
+cloudcover,"[0, 100]",0,0.0,100.0
+precipcover,"[0, 100]",0,0.0,100.0
+precipprob,"[0, 100]",0,0.0,100.0
+winddir,"[0, 360]",0,0.2,359.9
+moonphase,"[0, 1]",0,0.0,0.98
+severerisk,"[0, 100]",0,5.0,75.0
+precip,"[0, inf]",0,0.0,13.46
+snow,"[0, inf]",0,0.0,16.9
+snowdepth,"[0, inf]",0,0.0,36.2
+windspeed,"[0, inf]",0,2.6,54.3
+windgust,"[0, inf]",0,2.671902767594169,70.2
+solarradiation,"[0, inf]",0,0.1,356.5
+solarenergy,"[0, inf]",0,0.0,30.8
+uvindex,"[0, inf]",0,0.0,10.0
+visibility,"[0, inf]",0,0.5,28.707420433221078
+tempmin > tempmax,tempmin <= tempmax,0,,
+feelslikemin > feelslikemax,feelslikemin <= feelslikemax,0,,
